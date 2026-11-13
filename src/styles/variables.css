@@ -1,0 +1,18 @@
+:root {
+  /* Teal inspirado no logo do Orla Guanabara + verde institucional Emccamp */
+  --teal: #0d5c63;
+  --teal-dark: #083e44;
+  --emccamp-green: #39834b;
+  --emccamp-green-dark: #24643a;
+  --mint: #9fe0b0;
+  --sand: #f4f1ea;
+  --ink: #16211f;
+  --muted: #5b6866;
+  --white: #ffffff;
+  --line: #e3e8e5;
+  --font-primary: "Montserrat", Arial, Helvetica, sans-serif;
+  --container-width: 1180px;
+  --navbar-height: 72px;
+  --radius: 18px;
+  --radius-lg: 26px;
+}
